@@ -2,7 +2,7 @@ This GitHub repository contains supplementary files for the paper "The Cohesive 
 
 [Insert link to paper and doi and other things]
 
-This repository only contains a few files, including this README. (Hello!)
+This repository only contains a few files, including this README (Hello!) and a LICENSE that is the basic Creative Commons BY 4 license.
 
 The primary file of interest is ObjectsInfoMRT.csv, a comma separated value spreadsheet with all the data used to create the plots in the paper. Each "cohesive object" is on a single line of the csv. Every line follows this pattern:
 
@@ -26,4 +26,5 @@ Lastly, the file ObjectsPosterLargeText.pdf is a poster presented on this resear
 Feel free to use anything in this repository however you want, just make sure to give credit when doing so.
 
 -GM
+
 
